@@ -1,0 +1,6 @@
+<h1>{{title}}</h1>
+<ul>
+{% for race in races %}
+		<li>{{race.numero}}: {{race.title | upcase}}</li>
+{% endfor %}
+</ul>
