@@ -1,12 +1,16 @@
 {
-  "title": "R1 Vincennes",
-  "races": [{
-      "numero": 1,
-      "title": "Prix d'Amérique"
-    },
-    {
-      "numero": 2,
-      "title": "Prix Longines"
-    }
-  ]
+	"templateUrl": "https://raw.githubusercontent.com/sbusso/templates/master/test.liquid",
+	"data": {
+		"title": "R1 Vincennes",
+		"races": [{
+				"numero": 1,
+				"title": "Prix d'Amérique"
+			},
+			{
+				"numero": 2,
+				"title": "Prix Longines"
+			}
+
+		]
+	}
 }
