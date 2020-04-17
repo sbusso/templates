@@ -1,0 +1,380 @@
+{
+  "date": "vendredi 17 avril 2020",
+  "quinte_title": "R1C9 - Prix Biguglia à Umaker <b>21:15</b> — <b>1640m</b>",
+  "synthesis": "01 - 04 - 10 - 11 - 02 - 06 - 03 - 09",
+  "spot": "11 - 1 - 9 - 8 - 4 - 10 - 2 - 7",
+  "zero1quinte": "1 - 9",
+  "cdq": 1,
+  "quinte_comment": "Le Quinté+ <b>Prix Biguglia</b> est la 9ème course disputée au trot attelé sur l'hippodrome de Umaker (R1). Ce Quinté se court sur une distance de 1640m et réunit 12 partants. L'épreuve est dotée de la somme de 8028&euro; et débutera à 21:15.",
+  "visuturf": {
+    "url": "https://www.pronostic-facile.fr/courses/217821#visuturf",
+    "image": "http://www.pronostic-facile.fr/system/visuturf/MjE3ODIxX2Z1bGw=.png",
+    "synthesis": "01 - 09 - 03 - 10 - 06 - 02 - 04 - 11"
+  },
+  "equidegraph": {
+    "url": "https://www.pronostic-facile.fr/courses/217821#equidegraph",
+    "synthesis": "01 - 06 - 04 - 02 - 10 - 11 - 03 - 09",
+    "extract": [{
+      "number": 1,
+      "name": "Nolimitjimmit",
+      "jockey": "Mlle J. Lindqvist",
+      "url": "http://chart.apis.google.com/chart?cht=r&chs=225x225&chd=t:88.16,93,53,0.0,100|-1,-1,-1,-1,100,69,90,50,88.16|-1,-1,-1,-1,-1,-1,68&chco=0D8800,FF6F00,0000FF&chxt=x&chxl=0:|note|mus|reg|ent|pab|jock|dist|sais&chm=t71,33333375,2,6,40,,lt:32:14|B,FF6F0040,1,1,0|B,0D880060,0,1,0|h,BBBBBB44,0,0.1,1|h,CCCCCC44,0,0.2,1|h,CCCCCC44,0,0.3,1|h,CCCCCC44,0,0.4,1|h,99999944,0,0.5,1|h,BBBBBB44,0,0.6,1|h,BBBBBB44,0,0.7,1|h,BBBBBB44,0,0.8,1|h,BBBBBB44,0,0.9,1|h,CCCCCC,0,1,1&chls=1.0"
+    }, {
+      "number": 6,
+      "name": "Atlas Eagra",
+      "jockey": "Olofsson Hanna",
+      "url": "http://chart.apis.google.com/chart?cht=r&chs=225x225&chd=t:72.19999999999999,87,80,0.0,100|-1,-1,-1,-1,100,60,90,50,72.19999999999999|-1,-1,-1,-1,-1,-1,68&chco=0D8800,FF6F00,0000FF&chxt=x&chxl=0:|note|mus|reg|ent|pab|jock|dist|sais&chm=t70,33333375,2,6,40,,lt:32:14|B,FF6F0040,1,1,0|B,0D880060,0,1,0|h,BBBBBB44,0,0.1,1|h,CCCCCC44,0,0.2,1|h,CCCCCC44,0,0.3,1|h,CCCCCC44,0,0.4,1|h,99999944,0,0.5,1|h,BBBBBB44,0,0.6,1|h,BBBBBB44,0,0.7,1|h,BBBBBB44,0,0.8,1|h,BBBBBB44,0,0.9,1|h,CCCCCC,0,1,1&chls=1.0"
+    }, {
+      "number": 4,
+      "name": "B.W.L.ruthless",
+      "jockey": "Ohlsson Ulf",
+      "url": "http://chart.apis.google.com/chart?cht=r&chs=225x225&chd=t:64.08000000000001,80,71,22.5,78|-1,-1,-1,-1,78,62,50,50,64.08000000000001|-1,-1,-1,-1,-1,-1,68&chco=0D8800,FF6F00,0000FF&chxt=x&chxl=0:|note|mus|reg|ent|pab|jock|dist|sais&chm=t58,33333375,2,6,40,,lt:32:14|B,FF6F0040,1,1,0|B,0D880060,0,1,0|h,BBBBBB44,0,0.1,1|h,CCCCCC44,0,0.2,1|h,CCCCCC44,0,0.3,1|h,CCCCCC44,0,0.4,1|h,99999944,0,0.5,1|h,BBBBBB44,0,0.6,1|h,BBBBBB44,0,0.7,1|h,BBBBBB44,0,0.8,1|h,BBBBBB44,0,0.9,1|h,CCCCCC,0,1,1&chls=1.0"
+    }, {
+      "number": 2,
+      "name": "Julius Leejs",
+      "jockey": "Djuse Mattias",
+      "url": "http://chart.apis.google.com/chart?cht=r&chs=225x225&chd=t:68.28,83,72,0.0,70|-1,-1,-1,-1,70,62,50,50,68.28|-1,-1,-1,-1,-1,-1,68&chco=0D8800,FF6F00,0000FF&chxt=x&chxl=0:|note|mus|reg|ent|pab|jock|dist|sais&chm=t57,33333375,2,6,40,,lt:32:14|B,FF6F0040,1,1,0|B,0D880060,0,1,0|h,BBBBBB44,0,0.1,1|h,CCCCCC44,0,0.2,1|h,CCCCCC44,0,0.3,1|h,CCCCCC44,0,0.4,1|h,99999944,0,0.5,1|h,BBBBBB44,0,0.6,1|h,BBBBBB44,0,0.7,1|h,BBBBBB44,0,0.8,1|h,BBBBBB44,0,0.9,1|h,CCCCCC,0,1,1&chls=1.0"
+    }],
+    "pab": [{
+      "number": 1,
+      "name": "Nolimitjimmit"
+    }, {
+      "number": 6,
+      "name": "Atlas Eagra"
+    }, {
+      "number": 4,
+      "name": "B.W.L.ruthless"
+    }, {
+      "number": 2,
+      "name": "Julius Leejs"
+    }, {
+      "number": 11,
+      "name": "Tayson Bi"
+    }],
+    "distance": [{
+      "number": 1,
+      "name": "Nolimitjimmit"
+    }, {
+      "number": 6,
+      "name": "Atlas Eagra"
+    }, {
+      "number": 11,
+      "name": "Tayson Bi"
+    }, {
+      "number": 12,
+      "name": "Let It Happen W.W."
+    }, {
+      "number": 9,
+      "name": "Bottnas Easy Cash"
+    }],
+    "saison": [{
+      "number": 1,
+      "name": "Nolimitjimmit"
+    }, {
+      "number": 2,
+      "name": "Julius Leejs"
+    }, {
+      "number": 3,
+      "name": "Zooropa"
+    }, {
+      "number": 12,
+      "name": "Let It Happen W.W."
+    }, {
+      "number": 9,
+      "name": "Bottnas Easy Cash"
+    }]
+  },
+  "js": [{
+    "meeting_number": 4,
+    "race_number": 2,
+    "horse_number": "01",
+    "horse_name": "Empire Grim",
+    "jockey": "Ehlers Jimmi",
+    "score": 80
+  }, {
+    "meeting_number": 1,
+    "race_number": 7,
+    "horse_number": "05",
+    "horse_name": "Aramis Bar",
+    "jockey": "Goop Bjorn",
+    "score": 80
+  }, {
+    "meeting_number": 4,
+    "race_number": 7,
+    "horse_number": "12",
+    "horse_name": "Uret",
+    "jockey": "Kihlstrom Orjan",
+    "score": 77
+  }, {
+    "meeting_number": 1,
+    "race_number": 3,
+    "horse_number": "04",
+    "horse_name": "Ladybug Lara",
+    "jockey": "Torvinen Hannu",
+    "score": 77
+  }, {
+    "meeting_number": 1,
+    "race_number": 7,
+    "horse_number": "03",
+    "horse_name": "Hail Mary",
+    "jockey": "Perfler Mme A.",
+    "score": 76
+  }, {
+    "meeting_number": 4,
+    "race_number": 4,
+    "horse_number": "05",
+    "horse_name": "Digital Promise",
+    "jockey": "Erixon Anna",
+    "score": 76
+  }, {
+    "meeting_number": 4,
+    "race_number": 4,
+    "horse_number": "10",
+    "horse_name": "Barney Granit",
+    "jockey": "Hande Christina A.",
+    "score": 74
+  }, {
+    "meeting_number": 1,
+    "race_number": 3,
+    "horse_number": "02",
+    "horse_name": "Amperage Hanover",
+    "jockey": "Ohlsson Ulf",
+    "score": 74
+  }, {
+    "meeting_number": 1,
+    "race_number": 6,
+    "horse_number": "09",
+    "horse_name": "Axl Brown",
+    "jockey": "Skoglund R. N.",
+    "score": 73
+  }, {
+    "meeting_number": 1,
+    "race_number": 5,
+    "horse_number": "05",
+    "horse_name": "Pyckolina",
+    "jockey": "Lundahl Eva",
+    "score": 71
+  }, {
+    "meeting_number": 4,
+    "race_number": 7,
+    "horse_number": "07",
+    "horse_name": "Announcement",
+    "jockey": "Kontio Jorma",
+    "score": 70
+  }, {
+    "meeting_number": 1,
+    "race_number": 9,
+    "horse_number": "01",
+    "horse_name": "Nolimitjimmit",
+    "jockey": "Mlle J. Lindqvist",
+    "score": 70
+  }, {
+    "meeting_number": 1,
+    "race_number": 8,
+    "horse_number": "07",
+    "horse_name": "Gott Klirr",
+    "jockey": "Djuse Mattias",
+    "score": 70
+  }, {
+    "meeting_number": 1,
+    "race_number": 6,
+    "horse_number": "11",
+    "horse_name": "Aperfectdream",
+    "jockey": "Perfler Mme A.",
+    "score": 66
+  }, {
+    "meeting_number": 4,
+    "race_number": 6,
+    "horse_number": "11",
+    "horse_name": "Come Together",
+    "jockey": "E. Adielsson",
+    "score": 66
+  }, {
+    "meeting_number": 1,
+    "race_number": 10,
+    "horse_number": "03",
+    "horse_name": "Igor Sanna",
+    "jockey": "Carre J.",
+    "score": 60
+  }],
+  "announces": [{
+    "url": "https://www.pronostic-facile.fr/courses/217570",
+    "title": "Trio à 1224€ – R1C8"
+  }, {
+    "url": "https://www.pronostic-facile.fr/courses/217642",
+    "title": "Trio à 2400€ – R1C3"
+  }, {
+    "url": "https://www.pronostic-facile.fr/courses/217350",
+    "title": "Trio à 1069€ – R1C2"
+  }],
+  "partants": [{
+    "numero": 1,
+    "nom": "Nolimitjimmit",
+    "jockey": "Mlle J. Lindqvist",
+    "group": "2",
+    "note": 94.08,
+    "comment": "Base. Possède d’évidents moyens",
+    "sex_age": "H/6",
+    "gains": "48K",
+    "trainer": "Laestander Gabriella"
+  }, {
+    "numero": 2,
+    "nom": "Julius Leejs",
+    "jockey": "Djuse Mattias",
+    "group": "1",
+    "note": 84.14,
+    "comment": "",
+    "sex_age": "H/7",
+    "gains": "53K",
+    "trainer": "Olofsson Hanna"
+  }, {
+    "numero": 3,
+    "nom": "Zooropa",
+    "jockey": "Dunder R.",
+    "group": "1",
+    "note": 90.02,
+    "comment": "",
+    "sex_age": "F/5",
+    "gains": "51K",
+    "trainer": "Dunder Robert"
+  }, {
+    "numero": 4,
+    "nom": "B.W.L.ruthless",
+    "jockey": "Ohlsson Ulf",
+    "group": "1",
+    "note": 82.04,
+    "comment": "Base. ",
+    "sex_age": "H/6",
+    "gains": "53K",
+    "trainer": "Salmela Petri"
+  }, {
+    "numero": 5,
+    "nom": "Better Boost",
+    "jockey": "Ostman J.",
+    "group": "0",
+    "note": 37.1,
+    "comment": "",
+    "sex_age": "H/9",
+    "gains": "46K",
+    "trainer": "Hedman Matti"
+  }, {
+    "numero": 6,
+    "nom": "Atlas Eagra",
+    "jockey": "Olofsson Hanna",
+    "group": "1",
+    "note": 86.1,
+    "comment": "Traverse une belle période de forme",
+    "sex_age": "H/5",
+    "gains": "43K",
+    "trainer": "Olofsson Hanna"
+  }, {
+    "numero": 7,
+    "nom": "So Ga Ikaros",
+    "jockey": "Skoglund R. N.",
+    "group": "1",
+    "note": 80.64,
+    "comment": "",
+    "sex_age": "H/8",
+    "gains": "64K",
+    "trainer": "Hagglund Greger"
+  }, {
+    "numero": 8,
+    "nom": "Dillon Power",
+    "jockey": "Torvinen Hannu",
+    "group": "1",
+    "note": 81.9,
+    "comment": "",
+    "sex_age": "H/8",
+    "gains": "30K",
+    "trainer": "Kytola Aleksi"
+  }, {
+    "numero": 9,
+    "nom": "Bottnas Easy Cash",
+    "jockey": "Alamaki Jaa.",
+    "group": "1",
+    "note": 91.0,
+    "comment": "A gagné sa dernière sortie",
+    "sex_age": "H/6",
+    "gains": "41K",
+    "trainer": "Alamaki Jaakko"
+  }, {
+    "numero": 10,
+    "nom": "Hochthereitis Sox",
+    "jockey": "Heinonen Antero",
+    "group": "1",
+    "note": 89.04,
+    "comment": "",
+    "sex_age": "H/7",
+    "gains": "65K",
+    "trainer": "Salmela Petri"
+  }, {
+    "numero": 11,
+    "nom": "Tayson Bi",
+    "jockey": "Goop Bjorn",
+    "group": "2",
+    "note": 93.8,
+    "comment": "Accompagné de  Goop Bjorn",
+    "sex_age": "H/8",
+    "gains": "62K",
+    "trainer": "Palmqvist Dennis"
+  }, {
+    "numero": 12,
+    "nom": "Let It Happen W.W.",
+    "jockey": "Hafstad Eriksson Mme Mar.",
+    "group": "1",
+    "note": 79.1,
+    "comment": "",
+    "sex_age": "F/5",
+    "gains": "36K",
+    "trainer": "Lundmark Kjell"
+  }],
+  "date_yesterday": "mercredi 15 avril 2020",
+  "result_yesterday": {
+    "race_name": "R1C9 Prix Cedar Handicap à Happy Valley 16:50",
+    "ranking": [{
+      "rank": 5,
+      "number": 6,
+      "name": "Harmony Hero",
+      "jockey": "G. Schofield",
+      "odds": "17"
+    }, {
+      "rank": 4,
+      "number": 1,
+      "name": "Insayshable",
+      "jockey": "Borges V.",
+      "odds": "37"
+    }, {
+      "rank": 3,
+      "number": 11,
+      "name": "Righteous Doctrine",
+      "jockey": "Poon M.F.",
+      "odds": "9.4"
+    }, {
+      "rank": 2,
+      "number": 9,
+      "name": "Enrichment",
+      "jockey": "J. Moreira",
+      "odds": "5.0"
+    }, {
+      "rank": 1,
+      "number": 4,
+      "name": "Dances With Dragon",
+      "jockey": "Purton Z.",
+      "odds": "6.7"
+    }],
+    "link": "http://www.pronostic-facile.fr/courses/217751"
+  },
+  "top5": [{
+    "rc": "R5C1",
+    "race_name": "Maiden Claiming Race",
+    "time": "19:00",
+    "pronostic": "10 - 04 - 05 - 03 - 01 - 08 - 02 - 14",
+    "url": "http://www.pronostic-facile.fr/courses/217875"
+  }, {
+    "rc": "R1C6",
+    "race_name": "Prix Be My Girl",
+    "time": "20:14",
+    "pronostic": "11 - 09 - 12 - 08 - 04 - 10 - 01 - 06",
+    "url": "http://www.pronostic-facile.fr/courses/217818"
+  }]
+}
