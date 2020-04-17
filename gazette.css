@@ -1,0 +1,375 @@
+body {
+  width: 100%;
+  background-color: #424242;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased
+}
+
+html {
+  width: 100%
+}
+
+table {
+  font-size: 14px;
+  border: 0
+}
+
+@media only screen and (max-width: 640px) {
+  .header-bg {
+    width: 440px !important;
+    height: 10px !important
+  }
+
+  .main-header,
+  .main-subheader {
+    line-height: 28px !important
+  }
+
+  .feature,
+  .feature-middle {
+    width: 420px !important
+  }
+
+  .feature-text {
+    width: 440px !important
+  }
+
+  .feature-img {
+    width: 440px !important;
+    height: auto !important
+  }
+
+  .container {
+    width: 440px !important
+  }
+
+  .container-middle {
+    width: 420px !important
+  }
+
+  .mainContent {
+    width: 400px !important
+  }
+
+  .main-image,
+  .banner {
+    width: 400px !important;
+    height: auto !important
+  }
+
+  .section-item {
+    width: 400px !important
+  }
+
+  .section-img {
+    width: 400px !important;
+    height: auto !important
+  }
+
+  .prefooter-header,
+  .prefooter-subheader {
+    padding: 0 10px !important;
+    line-height: 24px !important
+  }
+
+  .top-bottom-bg {
+    width: 420px !important;
+    height: auto !important
+  }
+}
+
+@media only screen and (max-width: 479px) {
+  .header-bg {
+    width: 280px !important;
+    height: 10px !important
+  }
+
+  .top-header-left {
+    width: 260px !important;
+    text-align: center !important
+  }
+
+  .top-header-right {
+    width: 260px !important
+  }
+
+  .main-header,
+  .main-subheader {
+    line-height: 28px !important;
+    text-align: center !important
+  }
+
+  .logo,
+  .nav,
+  .feature {
+    width: 260px !important
+  }
+
+  .feature-middle {
+    width: 240px !important
+  }
+
+  .feature-text {
+    width: 280px !important
+  }
+
+  .feature-img {
+    width: 280px !important;
+    height: auto !important
+  }
+
+  .container {
+    width: 280px !important
+  }
+
+  .container-middle {
+    width: 260px !important
+  }
+
+  .mainContent {
+    width: 240px !important
+  }
+
+  .main-image,
+  .banner {
+    width: 240px !important;
+    height: auto !important
+  }
+
+  .section-item {
+    width: 240px !important
+  }
+
+  .section-img {
+    width: 240px !important;
+    height: auto !important
+  }
+
+  .prefooter-header,
+  .prefooter-subheader {
+    padding: 0 10px !important;
+    line-height: 28px !important
+  }
+
+  .top-bottom-bg {
+    width: 260px !important;
+    height: auto !important
+  }
+}
+
+.data-table {
+  width: 600px;
+  vertical-align: middle;
+  border-collapse: collapse;
+  font: 600 14px Lato, Arial, sans-serif;
+  margin-top: 0px;
+  border-bottom: 1px solid #999;
+  background: #ffffff;
+}
+
+.data-table tr {
+  height: 32px;
+}
+
+.data-table tr:nth-child(odd) {
+  background-color: #efefef;
+}
+
+.data-table .item-number {
+  width: 25px;
+  padding-right: 8px;
+  border-left: 0;
+  text-align: right;
+  font-weight: 600;
+  border-right: 1px solid #999;
+}
+
+.item-name {
+  width: 200px;
+  text-transform: uppercase;
+  border: 1px solid #dcdcd1;
+  border-bottom: 0;
+  padding-left: 5px;
+}
+
+.item-name .details {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.item-jockey {
+  width: 180px;
+  text-transform: uppercase;
+  font-weight: 300;
+  border: 1px solid #dcdcd1;
+  border-bottom: 0;
+  font-size: 12px;
+  padding-left: 3px;
+}
+
+.item-jockey .trainer {
+  font-style: italic;
+}
+
+.item-description {
+  width: 160px;
+  font-weight: 300;
+  font-size: 13px;
+  border: 1px solid #dcdcd1;
+  border-bottom: 0;
+  word-spacing: -1px;
+  padding-left: 3px;
+}
+
+.data-table .item-mark {
+  width: 30px;
+  border-right: 0;
+  text-align: center;
+  border: 1px solid #dcdcd1;
+  border-bottom: 0;
+}
+
+.logo {
+  display: inline-block;
+  margin-right: 4px;
+  margin-bottom: -4px;
+  font-size: 0;
+  width: 16px;
+  height: 16px;
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4AWJwL/DBwKxiyXoGtrUl/pETZoEwiA0Sw6YWQ0DDrKy+D9A3OcDaEQVheMLaiFXbioqoYW3btm3btvFs27Ztc/W/ndx3jW+9g3NGj1zK45Ly0djUCiY9qxT8b9iUY2etOiBa23H9zhexgiDBkA9vPSC2imBYtn7HyzjWNXOwbvvzVJgglFZizeILyI82ErGTVCMHA8cfOqkVJpU24sSvFJz4mwrnzBowd3wLcNYhA1e8cqBl8MTDpzQ777Nh6PN3XoJWcNo1CzTxDWj2N9A+d3Q66Qua+Qm0yg4DrwdDy4u3XiL1WTuMJs46eyozuwxaxtwNQ/+j3rgfmA/a5gLa44aDzpmgpX+x6lsitGTllGHyrDOnaeHah+9b2pPUKinoccYPhY0CEkoaQIv+oPtpXzC03tEohFbVZvG6h+81Dlr0DiRZAbPuexJo/m+MvB0KJqe6Gc2ibO5gsnEIOqY9ilAd/MLSzwmwhC4ETuILTqIJXdVQOISrvG0L6JLIpRg8/vApGJBe0QTa6Aha8hcOyRWwhK6M2obg5tAK2ajnNmf0OuaNwtoWmLJh58s0y62862WcIEqwhqjK1u98GU+0uJONYTp29v5Tl4rMzGJIrQIaGpqRkFyAO0+cK4ZPPXrOVN/yOPdbP3bsjFOH566894KvCeo7/7Ok2wZCPZStq3XgxgAAAABJRU5ErkJggg==');
+}
+
+.mark {
+  display: inline-block;
+
+  font-family: Arial, Helvetica, sans-serif;
+  width: 12px;
+  height: 12px;
+  padding-left: 0px;
+  margin-top: 0px;
+  font-size: 1em;
+}
+
+
+
+.data-listing {
+  float: left;
+  margin-left: 33px;
+  margin-top: 0px;
+  font: 600 16px Lato, Arial, sans-serif;
+  color: #00f;
+}
+
+.data-description {
+  float: left;
+  margin-left: 104px;
+  font: 600 14px Lato, Arial;
+  margin-bottom: 15px;
+}
+
+.data-legend {
+  float: right;
+  clear: both;
+  margin: 3px 5px 3px 0;
+}
+
+.data-legend span.mark {
+  margin-top: 4px;
+}
+
+.data-legend span {
+  float: left;
+  margin-right: 5px;
+  font: 600 14px Lato, Arial;
+}
+
+.evidence {
+  color: #008000;
+}
+
+.chance {
+  color: #f79646;
+}
+
+.difficile {
+  color: #f00;
+}
+
+.synthesis div {
+  border: 5px solid #82bcff;
+  background-color: #82bcff;
+  border-bottom: 0px;
+  border-left: 0px;
+
+  display: inline-block;
+  /* float: left; */
+  padding: 0px;
+  padding-right: 6px;
+  font-weight: 600;
+  vertical-align: baseline;
+  color: #333;
+  font-size: 36px;
+  font-family: "Lucida Console", Monaco, monospace
+}
+
+.synthesis .simple {
+  border-color: #b0d5ff;
+  background-color: #b0d5ff;
+  border-top: 0px;
+}
+
+.synthesis .couple {
+
+  border-color: #ffd297;
+  background-color: #ffd297;
+}
+
+.synthesis .trio {
+  border-color: #ffec9a;
+  background-color: #ffec9a;
+}
+
+.synthesis .quarte {
+  border-color: #839aff;
+  background-color: #839aff;
+}
+
+.synthesis .multi {
+  border-color: #f6aeff;
+  background-color: #f6aeff;
+}
+
+.synthesis .quinte {
+
+  border-color: #ff9991;
+  background-color: #ff9991;
+}
+
+.left {
+  float: left;
+}
+
+ul#equidegraph {
+  text-align: center;
+  padding-left: 70px;
+}
+
+#equidegraph li {
+  border: 1px solid #ccc;
+  height: 275px;
+  width: 225px;
+}
+
+#equidegraph li img {
+  width: 225px;
+  width: 225px;
+  text-align: center;
+}
+
+#equidegraph h4 {
+  font-style: normal;
+  margin-bottom: 5px;
+  font-size: 90%;
+}
